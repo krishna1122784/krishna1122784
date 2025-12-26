@@ -26,7 +26,7 @@
 ---
 
 ## 🎯 Current Goals
-- Secure an **internship (UIDAI or similar)**  
+- Secure an **internship **  
 - Master efficient SQL implementations  
 - Refine portfolio presentation with interactive features  
 - Benchmark skills to become a **top-tier QA/SDET candidate**  
