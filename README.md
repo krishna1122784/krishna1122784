@@ -35,8 +35,8 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/krishna-kumar-choudhary-986ab128a/)  
-- [Portfolio Website](https://your-portfolio-link.com) *(add when ready)*  
-- Email: *your-email@example.com*  
+- [Portfolio Website](https://your-portfolio-link.com) 
+- Email: choudharykrishna832@gmail.com  
 
 ---
 ✨ *Persistent, detail-oriented, and systems-focused — I treat communication with the same precision as coding.*
