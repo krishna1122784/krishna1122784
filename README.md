@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in Computer Science Engineering** (4th Year, Chandigarh University)
 💻 Passionate about **Database Optimization, Modular Code, Automation Testing, and Reinforcement Learning**
-🌍 Currently living in **Kharar, Punjab
+🌍 Currently living in **Mohali, Punjab
 
 ##  Skills
 
